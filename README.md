@@ -7,12 +7,12 @@ An website was scraped using scrapy. First the all the website url was collected
 
 ### Storing:
 
-The scraped data was then saved in json format. The data was stored in MongoDB database.
+The scraped data was then saved in json format. The data was also stored in MongoDB database.
 
 
 ### Testing and Validation:
 
-Unit testing was used to test the spider code. Then json data file was validated to check if the schema is valid.
+Unit testing was used to test the spider code. Then json data files were validated to check if the schemas are valid.
 
 
 ### How to run:
