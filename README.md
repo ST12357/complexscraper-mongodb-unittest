@@ -1,15 +1,18 @@
 # complexscraper-mongodb-unittest
 
-**Scraping**
+**Scraping:**
+
 An website was scraped using scrapy. First the all the website url was collected, then the data from those websites were scraped recursively.
 
-**Storing**
+**Storing:**
+
 The scraped data was then saved in json format. The data was stored in MongoDB database.
 
-**Testing and Validation**
+**Testing and Validation:**
+
 Unittesting was used to test the spider code. Then json data file was validated to check if the schema is valid.
 
-**How to run**
+**How to run:**
 
 Open folder 'Solution' in VS code
 
