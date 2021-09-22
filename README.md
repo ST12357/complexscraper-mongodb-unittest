@@ -2,17 +2,17 @@
 
 ### Scraping:
 
-An website was scraped using scrapy. First the all the website url was collected, then the data from those websites were scraped recursively.
+An website is scraped using scrapy. First the all the website urls are collected, then the data from those websites are scraped recursively.
 
 
 ### Storing:
 
-The scraped data was then saved in json format. The data was also stored in MongoDB database.
+The scraped data is then saved in json format. The data is also stored in MongoDB database.
 
 
 ### Testing and Validation:
 
-Unit testing was used to test the spider code. Then json data files were validated to check if the schemas are valid.
+Unit testing is used to test the spider code. Then json data files are validated to check if the schemas are valid.
 
 
 ### How to run:
